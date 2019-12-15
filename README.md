@@ -11,3 +11,7 @@ We have 9 jupyter notebooks in total.
 We have 2 final datasets. 
 1. FinalData.csv - we use list from reference to generate this dataset.
 2. TestData.csv - we use list that we crawled to generate this dataset.
+
+They are inputs for 'Part I, II, III'.
+
+Inputs for 'Preparation' can be found in the directory 'Original Data'.
