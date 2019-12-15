@@ -14,4 +14,4 @@ We have 2 final datasets.
 
 They are inputs for 'Part I, II, III'.
 
-Inputs for 'Preparation' can be found in the directory 'Original Data'.
+Inputs for 'Preparation II' can be found in the directory 'Original Data'.
